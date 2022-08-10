@@ -1,0 +1,19 @@
+.fz-40 {
+    font-size: 40px;
+}
+.btn-size {
+    width: 130px;
+    height: 42px;
+}
+.btn {
+    &.btn-purple {
+        background: #8a82cc;
+    }
+    &.btn-skin {
+        background: #ffa782;
+    }
+    &.btn-blue {
+        background: #559ac8;
+    }
+}
+
