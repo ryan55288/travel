@@ -106,13 +106,12 @@ table {
   color: #8a82cc;
 }
 
-.clock {
-  height: 18px;
-  width: 18px;
-}
-
 .phone {
   margin-left: 2px;
+}
+
+.card-img-top {
+  height: 160px;
 }
 
 .bg-blue {
