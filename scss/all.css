@@ -114,6 +114,10 @@ table {
   height: 160px;
 }
 
+.card-high {
+  height: 500px;
+}
+
 .bg-blue {
   background-color: #559ac8;
   height: 90px;
